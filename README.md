@@ -53,12 +53,9 @@
 
 <br clear="both">
 
-<img src="https://www.github.com/syedshoaibshah0/syedshoaibshah0/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsircltech.com%2Fsoftware-development&psig=AOvVaw2Opp-nMQnPcdobtmhXc8RX&ust=1682878000890000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCFgZ3Xz_4CFQAAAAAdAAAAABAL"  />
-</div>
 
 ###
