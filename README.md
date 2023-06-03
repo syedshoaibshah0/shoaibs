@@ -70,9 +70,4 @@
 
 
 
-<img src="https://github.com/syedshoaibshah0/syedshoaibshah0/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
 
