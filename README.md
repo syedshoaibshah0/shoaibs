@@ -83,8 +83,8 @@
 
 ###
 
-<br clear="both">
-<div align="center">
+
+
 <img src="https://github.com/syedshoaibshah0/syedshoaibshah0/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
